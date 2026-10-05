@@ -1,0 +1,9 @@
+# 系统文件
+Thumbs.db
+desktop.ini
+*.lnk
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
